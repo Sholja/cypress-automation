@@ -17,6 +17,6 @@
   [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-- Always try to move everything to constants. If something is change in the future, you just change it in constants and that is it.
+- Always try to move everything to constants. If something is changed in the future, you just change it in constants and that is it.
 
 # Happy testing!!!
